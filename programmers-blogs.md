@@ -15,7 +15,12 @@ After reading [good books](https://dan-carroll.github.io/online-development-book
 > Talk to me about: Software Development & Architecture, Cloud Computing, Microservices.
 
 ### [Scott On Writing](https://scottonwriting.net/)
-> I talk about technical writing, technology, and ASP.NET.
+
+I talk about technical writing, technology, and ASP.NET.
+
+### [WebJeda Blog](https://blog.webjeda.com/)
+
+WebJeda is a company oriented towards building modern websites and apps.
 
 ### [web.dev Blog](https://web.dev/blog/)
 
@@ -52,6 +57,12 @@ Code is Speech, Code is Art, Code is Power, Code is Life.
 
 HackerNoon is built for technologists to read, write, and publish. We are an open and international community of 35,000+ contributing writers publishing stories and expertise for 5 - 8 Million curious and insightful monthly readers.
 
+### [Full Stack Python Book](https://www.fullstackpython.com/)
+
+Full Stack Python is an open source book that explains technical concepts in plain language. Read everything online for free or purchase the Supporter's Edition for nicely-formatted ebook (PDF, EPUB, MOBI) versions. This guide branches out on topic because your learning requirements depend on what you're working on. Choose a topic from the links below or view the full table of contents to see even more subjects you can learn.
+
+> #### [Full Stack Python Blog](https://www.fullstackpython.com/blog.html)
+
 ### [TecMint](https://www.tecmint.com/)
 
 TecMint.com is a free online community-supported publication that publishes practical and useful out-of-the-box high-quality articles on Linux, Sysadmin, Security, DevOps, Cloud Computing, Tools, and many other topics.
@@ -63,4 +74,8 @@ We cover a wide range of subjects and aim to cater to both beginners and experie
 ### [KDnuggets: Data Science, Machine Learning, AI & Analytics](https://www.kdnuggets.com/)
 
 KDnuggets is where data professionals go for answers.
+
+### [Ben Balter](https://ben.balter.com/)
+
+Technology leadership, collaboration, and open source,
 
