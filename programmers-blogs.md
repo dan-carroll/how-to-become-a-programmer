@@ -1,3 +1,5 @@
+---
+---
 # Programmers' Blogs
 
 After reading [good books](https://dan-carroll.github.io/online-development-books/), the next thing to do to become a better programmer is to hang out with programmers who are better than you.
