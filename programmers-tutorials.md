@@ -13,7 +13,7 @@ Computer science is quickly becoming an essential skill in nearly every industry
 
 Get developer resources, build skills, and explore new interactive training and certifications from Microsoft Learn.
 
-> #### Explore More at [Microsoft Learn. Spark possibility.](https://learn.microsoft.com/en-us/)  
+> #### Explore More at [Microsoft Learn](https://learn.microsoft.com/en-us/). Spark possibility.  
 >  
 > Build skills that open doors. See all you can do with documentation, hands-on training, and certifications to help you get the most from Microsoft products.
 
