@@ -17,3 +17,50 @@ After reading [good books](https://dan-carroll.github.io/online-development-book
 ### [Scott On Writing](https://scottonwriting.net/)
 > I talk about technical writing, technology, and ASP.NET.
 
+### [web.dev Blog](https://web.dev/blog/)
+
+Our latest news, updates, and stories for developers.
+
+### [The Invent with Python Blog](https://inventwithpython.com/blog/)
+
+Writings from the author of Automate the Boring Stuff.
+
+### [Probably Overthinking It](https://www.allendowney.com/blog/)
+> blog by [Allen Downey](https://www.allendowney.com/wp/)
+
+Data science, Bayesian Statistics, and other ideas.
+
+### [Syncfusion Blogs](https://www.syncfusion.com/blogs)
+
+Syncfusion blogs for .NET development, cross-platform, mobile apps, Syncfusion UI controls, news and more.
+
+### [Dr. Chuck's Blog](https://www.dr-chuck.com/csev-blog/)
+
+Teaching, Learning, Technology, Standards, Interoperability, etc.
+
+> by [Dr. Chuck aka Charles Severance](https://www.dr-chuck.com/)
+
+### [Douglas Crockford Blog](https://www.crockford.com/blog.html)
+
+[Douglas Crockford](https://www.crockford.com/securecolor.html) is the author of How JavaScript Works.
+
+### [Code is Life](https://codeislife.blog/)
+
+Code is Speech, Code is Art, Code is Power, Code is Life.
+
+### [HackerNoon](https://hackernoon.com/)
+
+HackerNoon is built for technologists to read, write, and publish. We are an open and international community of 35,000+ contributing writers publishing stories and expertise for 5 - 8 Million curious and insightful monthly readers.
+
+### [TecMint](https://www.tecmint.com/)
+
+TecMint.com is a free online community-supported publication that publishes practical and useful out-of-the-box high-quality articles on Linux, Sysadmin, Security, DevOps, Cloud Computing, Tools, and many other topics.
+
+We seek to present exceptional, remarkable free tips, tutorials, and resources on various aspects of Linux, open-source software, networking, security, programming, and other technology-related topics.
+
+We cover a wide range of subjects and aim to cater to both beginners and experienced professionals in the IT industry.
+
+### [KDnuggets: Data Science, Machine Learning, AI & Analytics](https://www.kdnuggets.com/)
+
+KDnuggets is where data professionals go for answers.
+
