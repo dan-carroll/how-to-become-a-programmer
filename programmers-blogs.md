@@ -1,4 +1,5 @@
 ---
+permalink: /programmers-blogs
 ---
 # Programmers' Blogs
 
