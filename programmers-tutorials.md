@@ -1,5 +1,7 @@
 ---
 permalink: /programmers-tutorials
+layout: default
+title: Tutorials
 ---
 # Programmers' Tutorials
 

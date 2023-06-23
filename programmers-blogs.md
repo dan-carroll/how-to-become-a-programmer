@@ -1,5 +1,7 @@
 ---
-permalink: /programmers-blogs
+permalink: /programmers-blogs.html
+layout: default
+title: Blogs
 ---
 # Programmers' Blogs
 
