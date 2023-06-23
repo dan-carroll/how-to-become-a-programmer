@@ -1,5 +1,3 @@
----
----
 # How to Become a Programmer
 ## Or Better Yet -- A Software Engineer
 
