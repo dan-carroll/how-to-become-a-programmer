@@ -8,4 +8,4 @@ know to start making money writing code.
 
 [Hang out with programmers](https://dan-carroll.github.io/how-to-become-a-programmer/programmers-blogs) (who are better than you).
 
-And there are some very good tutorials available. Some blog sites have tutorials but look for them in the **[Blogs page]**(https://dan-carroll.github.io/how-to-become-a-programmer/programmers-blogs). The **[Tutorials page]**(https://dan-carroll.github.io/how-to-become-a-programmer/programmers-tutorials) will include some educational (Learn) sites.
+And there are some very good tutorials available. Some blog sites have tutorials but look for them in the **[Blogs page](https://dan-carroll.github.io/how-to-become-a-programmer/programmers-blogs)**. The **[Tutorials page](https://dan-carroll.github.io/how-to-become-a-programmer/programmers-tutorials)** will include some educational (Learn) sites.
