@@ -39,3 +39,7 @@ These notes are being written to support COMP2110 Web Technology at Macquarie Un
 
 Earlier versions of this course were Python based so these notes have lots of material on Python and Bottle for server side web development. Right now, we concentrate on front-end development with Javascript and so those notes are being added to.
 
+### [Real Python Tutorials](https://realpython.com/)
+
+Real Python is an online learning platform that teaches individuals and companies the skills they need to work with Python in the real world.
+

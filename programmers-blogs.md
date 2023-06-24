@@ -81,3 +81,23 @@ KDnuggets is where data professionals go for answers.
 
 Technology leadership, collaboration, and open source,
 
+### [Webdesigner Depot](https://www.webdesignerdepot.com/)
+
+Blogging about web design since 2008.
+
+### [CSS-Tricks](https://css-tricks.com/)
+
+Daily articles about CSS, HTML, JavaScript, and all things related to web design and development.
+
+### [Self Taught Coders](https://selftaughtcoders.com/resources/)
+
+Help you learn to successfully build and launch your very own web app.
+
+### [Python in Plain English](https://python.plainenglish.io/)
+
+Go deeper with the language powering everything from Big Data and AI, to IOT.
+
+### [Opensource.com](https://opensource.com/)
+
+New to open source? Opensource.com wants to help. Browse our collection of resources so you can learn more about the open source way, locate projects or applications that embrace it.
+
